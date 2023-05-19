@@ -29,9 +29,11 @@ Membuat rangkaian untuk mengatur tingkat kecerahan LED menggunakan 3 tombol, 2 t
 
 ## Board Schematic
 
-![IMG 1](boardschematic/1.png)
-![IMG 1](boardschematic/2.png)
-![IMG 1](boardschematic/3.png)
+![IMG 1](img1.jpg)
+![IMG 1](img2jpg)
+![IMG 1](img3.jpg)
+![IMG 1](img4.jpg)
+![IMG 1](img5.jpg)
 
 ## Link Video
 <a href="https://drive.google.com/file/d/1ZfSmqUV5rtPVA_r8M9dv6_qLtPy5BjVF/view?usp=sharing">Kelompok 7 A 2020</a>
