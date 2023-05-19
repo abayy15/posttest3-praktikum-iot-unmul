@@ -13,14 +13,14 @@ Kelompok 7 A 2020:
 Membuat rangkaian menggunakan sensor suara untuk mendeteksi suara dan sensor pir untuk mendeteksi gerak dengan batas tertentu lampu led merah akan menyala jika dibawa batas lampu hijau akan menyala.
 
 ## Pembagian Tugas
-1. Ahmad Nur Rifqi = Mengatur konfigurasi WEBSERVER dan mengatur konfigurasi enable\disable button dari LED dan Buzzer 
-2. Vigo Santri Ali = Membuat Rangkaian Buzzer dan mengatur konfigurasi button untuk menambah dan mengurangi tone Buzzer
-3. Aby Kurniawan = Membuat Rangkaian LED dan mengatur konfigurasi button untuk menambah dan mengurangi kecerahan LED
+1. Ahmad Nur Rifqi = Mengatur konfigurasi WEBSERVER dan mengatur konfigurasi sensor suara button dari LED dan Buzzer 
+2. Vigo Santri Ali = Membuat Rangkaian sensor suara dan mengatur konfigurasi lampu led
+3. Aby Kurniawan = Membuat Rangkaian LED dan mengatur konfigurasi nyala lampu LED
 
 ## Komponen Yang Digunakan
 1. ESP8266
 2. LED
-3. Buzzer
+3. Sensor suara
 4. Resistor
 5. Push Button
 6. Kabel Jumper
