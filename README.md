@@ -10,7 +10,7 @@ Kelompok 7 A 2020:
 ### Controlling & Monitoring lampu dan suara ribut menggunakan bot telegram
 
 ## Deskripsi
-Membuat rangkaian untuk mengatur tingkat kecerahan LED menggunakan 3 tombol, 2 tombol untuk mengatur tingkat kecerahan dan 1 tombol untuk ON/OFF LED. Begitu juga dengan Buzzer, menggunakan 3 tombol, 2 tombol untuk mengatur tingkat nada/tone dari buzzer dan 1 tombol untuk ON/OFF Buzzernya.
+Membuat rangkaian menggunakan sensor suara untuk mendeteksi suara dan sensor pir untuk mendeteksi gerak dengan batas tertentu lampu led merah akan menyala jika dibawa batas lampu hijau akan menyala.
 
 ## Pembagian Tugas
 1. Ahmad Nur Rifqi = Mengatur konfigurasi WEBSERVER dan mengatur konfigurasi enable\disable button dari LED dan Buzzer 
